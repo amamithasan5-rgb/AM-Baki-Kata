@@ -1,2 +1,2 @@
-# AM-Baki-Kata
-AM Baki Khata - Dokaner bakir hisab rakhar app. Bangla, sohoj, offline e chole.
+# AMBakiKata
+AM Baki Khataa- Dokaner bakir hisab rakhar app.BBangla, sohoj, offline e chole.
